@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cabe7622-189d-4ed9-957f-ac04f493d8c1">
+  <producedTypes>
+    <objectType typeId="52660e6f-0b22-4843-8f0a-751c38a482cb" valueTypeId="82a5f71c-5aeb-4946-b3a2-d313c6eba6fd"/>
+    <refType typeId="5e4fb0e1-2191-4b94-aa27-69e868c69f12" valueTypeId="49a70f07-d640-4cd7-9a1b-4abdd7da0d9c"/>
+    <selectionType typeId="13a77229-ed1e-4961-bf3b-976bda1cb2e0" valueTypeId="3538eb22-ae4e-4e36-b5aa-ef8b4306a132"/>
+    <listType typeId="8a23cfde-0197-460d-aa4e-6cbee8baa538" valueTypeId="10e703f3-92d3-408d-8f10-feab4dc61b89"/>
+    <managerType typeId="f16556a2-ce0e-495a-8ba7-d1c5910dc806" valueTypeId="9ade0998-0ab5-4f34-a3e6-3ce8787e2d32"/>
+  </producedTypes>
+  <name>КонтактныеЛица_ТБ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контактные лица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.КонтактныеЛица_ТБ.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КонтактныеЛица_ТБ.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Контактное лицо</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>23</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
