@@ -539,6 +539,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Document.ЗаказПокупателя</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.ИдентификаторыОбъектовМетаданных</name>
 		<right>
 			<name>Read</name>
@@ -623,6 +634,17 @@
 	</object>
 	<object>
 		<name>CommonForm.ПараметрыПроксиСервера</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.КонтактныеЛица_ТБ</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
 		<right>
 			<name>View</name>
 			<value>true</value>
@@ -1577,6 +1599,17 @@
 		</right>
 		<right>
 			<name>Output</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Должность_ТБ</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
